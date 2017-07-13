@@ -1,4 +1,4 @@
-Go ahead and check out the .ipybn file!
+Go ahead and check out the oversumo.ipybn file!
 
 Data Analysis and Machine Learning with Python:
 - EDA with pandas, matplotlib, seaborn and statsmodels
