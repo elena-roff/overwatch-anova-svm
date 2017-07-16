@@ -1,9 +1,10 @@
 Go ahead and check out the oversumo.ipybn file!
 
 Data Analysis and Machine Learning with Python:
-- EDA with pandas, matplotlib, seaborn and statsmodels
-- Correlation and Regression analysis
-- Pricipal Component Analysis
-- Causal Inference with scikit-learn
+- __EDA__ with ECDF, ANOVA and distribution analysis. 
+- __Correlation__ and Regression analysis.
+- Standardizing and filtering the data.
+- __Support Vector Regression__ with scikit-learn including model selection, grid search and feature importance.
 
-Status: in the progress.
+Libraries used: 
+__numpy, pandas, missingno, matplotlib + seaborn, plotly,statsmodels, scipy and sklearn__
